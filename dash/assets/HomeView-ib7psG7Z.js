@@ -1,0 +1,1 @@
+import{_ as o,c as s,d as t,o as c}from"./index-j6xUvDN0.js";const n={},r={class:"home"};function a(_,e){return c(),s("div",r,e[0]||(e[0]=[t("h1",null,"欢迎使用后台管理系统",-1)]))}const l=o(n,[["render",a]]);export{l as default};
